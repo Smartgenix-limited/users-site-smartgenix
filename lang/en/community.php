@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'community' => 'Community',
+    'title' => 'Title',
+    'category' => 'Category',
+    'message' => 'Message',
+    'choose_category' => 'Choose a Category',
+    'files' => 'Images or Videos',
+    'date' => 'Date',
+    'datetime' => 'Datetime',
+    'time' => 'Time',
+    'comment' => 'Comment',
+    'comments' => 'Comments',
+    'reply' => 'Reply',
+    'edit' => 'Edit',
+    'update' => 'Update',
+    'delete' => 'Delete',
+    'report' => 'Report',
+    'reported' => 'Reported',
+    'reason_to_report' => 'Please tell us why are you reporting message',
+    'comments' => 'Comments',
+    'all_question' => 'All Questions',
+    'my_question' => 'My Questions',
+    'no_question' => 'No question',
+    'my_comments' => 'My Comments',
+    'no_comments' => 'You have not participate in any conversation',
+    'posted_at' => 'Posted at',
+
+];
